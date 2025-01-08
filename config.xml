@@ -5,7 +5,10 @@
     <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
         Apache Cordova Team
     </author>
+    
     <content src="index.html" />
+<access origin="*"/>
+<allow-navigation href="*"/>
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
 </widget>
